@@ -121,6 +121,6 @@ def menu():
     else:
         SystemExit()
 banner()
-print("OPEN-SOURCE PROJECT | https://github.com/Saulo-lopezSu")
+print("OPEN-SOURCE PROJECT | https://github.com/Saulo-lopezSu/metodos_de_encriptacion")
 print("by Saulo Gonzalez L. ")
 menu()
