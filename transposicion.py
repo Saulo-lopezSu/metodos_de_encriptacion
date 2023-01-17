@@ -3,7 +3,7 @@ def banner():
     ascii_banner = pyfiglet.figlet_format("TRANSPOSICION")
     print(ascii_banner)
 banner()
-print("OPEN-SOURCE PROJECT | https://github.com/Saulo-lopezSu")
+print("OPEN-SOURCE PROJECT | https://github.com/Saulo-lopezSu/metodos_de_encriptacion")
 print("by Saulo Gonzalez L. ")
 def encriptar(filas, mensaje):
     matriz = []
